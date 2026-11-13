@@ -13,3 +13,5 @@
 
 ## Programação
 - [Jogo Web de Simulação de Debugging](https://github.com/learningspace-utfpr-cm/Debugging-Game): Objeto de aprendizagem em formato de jogo web para ensino de depuração de programas, abordando: identificar erros em código-fonte, compreender o processo de depuração, aplicar técnicas de depuração para correção de código, utilizar testes de software para validar soluções, reconhecer tipos de bugs em programas, relacionar execução do programa com ocorrência de erros. Destinado a estudantes de cursos da área de computação com conhecimentos básicos de programação.
+- [Variáveis](https://github.com/learningspace-utfpr-cm/Quiz-Variaveis_Objeto-Aprendizagem): Quiz interativo sobre variáveis, buscando facilitar a compreensão e aplicação de variáveis em diferentes linguagens de programação. Para cada tópico sobre variáveis, são apresentadas perguntas de múltipla escolha, exemplos explícitos e exercícios práticos para reforçar o aprendizado. Destinado a estudantes de programação iniciantes, de qualquer nível de ensino.
+
