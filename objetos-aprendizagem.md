@@ -18,6 +18,7 @@
 - [Data Learning](https://github.com/learningspace-utfpr-cm/objeto-de-aprendizagem-DataLearning): Objeto de aprendizagem que utiliza gamificação para guiar o empreendedor na transição da tomada de decisão baseada em "achismos" para decisões baseadas em dados. Destinado a  Microempreendedores Individuais (MEIs) e pequenos empresários que possuem pouco ou nenhum conhecimento prévio em estatística ou ciência de dados.
 
 ### Lógica matemática e matemática discreta
+- [Dominó Lógico](https://github.com/learningspace-utfpr-cm/oa-domino-logico): Jogo de dominó desenvolvido para apoiar o ensino introdutório de lógica booleana de forma lúdica e progressiva. A proposta parte do dominó clássico, explorando sua dinâmica de associação e sequenciamento, para ativar conhecimentos prévios dos alunos. Gradualmente, as peças passam a representar valores lógicos (0 e 1) e operadores booleanos (AND, OR, NOT), permitindo a construção e a resolução de expressões lógicas simples e compostas. Destinado a estudantes do Ensino Médio ou iniciantes em lógica, computação ou matemática.
 - [LogiCard](https://github.com/learningspace-utfpr-cm/LogiCard): Jogo de cartas com objetivo de introduzir conceitos sobre lógica proposicional, mais especificamente os conceitos de sentença, proposição e operadores. Este objeto de aprendizagem não requer um computador. Ao invés disso, ele emprega cartas reais! Destinado a crianças do quinto ano do Ensino Fundamental 1.
 
 ### Programação
