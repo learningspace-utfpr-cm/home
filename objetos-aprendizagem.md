@@ -3,21 +3,23 @@
 ## Funções executivas
 - [Organizador de rotina](https://github.com/learningspace-utfpr-cm/routine-organizer): Software educacional sobre planejamento de atividades da rotina diária. Destinado a crianças neurodivergentes, que possuem dificuldade no aprendizado de rotinas.
 
-## Banco de dados
+## Computação
+
+### Banco de dados
 - [Detetive SQL](https://github.com/learningspace-utfpr-cm/DetetiveSQL): Jogo investigativo para ensinar consultas SQL por meio de um jogo investigativo. O estudante assume o papel de um detetive que precisa resolver um assassinato na Mansão Belmont, utilizando consultas SQL para cruzar evidências, filtrar suspeitos e chegar a uma conclusão baseada em dados concretos. Destinado a estudantes de ensino médio e início do ensino superior que estão tendo o primeiro contato com bancos de dados relacionais.
 - [neonCity: Administrando a Cidade](https://github.com/learningspace-utfpr-cm/neonCity): Jogo em que o estudante está no controle de uma metrópole futurista. Para salvar a cidade, o jogador não utiliza botões comuns, mas sim um Terminal de Comando SQL funcional que interage com um banco de dados real em memória. O objetivo é ensinar os fundamentos de Banco de Dados de forma prática, visual e imersiva. Destinado a estudantes do Ensino Médio e Superior que queiram aprender sobre gerenciamento de banco de dados.
 - [SQL JOINS](https://github.com/learningspace-utfpr-cm/oa-sql-join): Objeto de aprendizagem sobre comandos SQL de junção (JOIN), abordando INNER JOIN, LEFT JOIN, RIGHT JOIN e FULL OUTER JOIN. Destinado a estudantes de Graduação em Computação e Profissionais de Tecnologia em Início de Carreira (Devs Junior e Analistas de Dados Trainee).
 
-## Cibersegurança
+### Cibersegurança
 - [Treinamento em Engenharia Social: Identificação de E-mails Suspeitos](https://github.com/learningspace-utfpr-cm/ob-engenharia-social): Objeto de aprendizagem voltado à capacitação de colaboradores corporativos para reconhecer, analisar e reagir adequadamente a tentativas de engenharia social por e-mail. Destinado a colaboradores de empresas de todos os níveis hierárquicos, desde equipes operacionais até gestores, que utilizam e-mail corporativo em sua rotina de trabalho.
 
-## Ciência de dados
+### Ciência de dados
 - [Data Learning](https://github.com/learningspace-utfpr-cm/objeto-de-aprendizagem-DataLearning): Objeto de aprendizagem que utiliza gamificação para guiar o empreendedor na transição da tomada de decisão baseada em "achismos" para decisões baseadas em dados. Destinado a  Microempreendedores Individuais (MEIs) e pequenos empresários que possuem pouco ou nenhum conhecimento prévio em estatística ou ciência de dados.
 
-## Lógica matemática e matemática discreta
+### Lógica matemática e matemática discreta
 - [LogiCard](https://github.com/learningspace-utfpr-cm/LogiCard): Jogo de cartas com objetivo de introduzir conceitos sobre lógica proposicional, mais especificamente os conceitos de sentença, proposição e operadores. Este objeto de aprendizagem não requer um computador. Ao invés disso, ele emprega cartas reais! Destinado a crianças do quinto ano do Ensino Fundamental 1.
 
-## Programação
+### Programação
 - [Jogo Web de Simulação de Debugging](https://github.com/learningspace-utfpr-cm/Debugging-Game): Objeto de aprendizagem em formato de jogo web para ensino de depuração de programas, abordando: identificar erros em código-fonte, compreender o processo de depuração, aplicar técnicas de depuração para correção de código, utilizar testes de software para validar soluções, reconhecer tipos de bugs em programas, relacionar execução do programa com ocorrência de erros. Destinado a estudantes de cursos da área de computação com conhecimentos básicos de programação.
 - [Variáveis](https://github.com/learningspace-utfpr-cm/Quiz-Variaveis_Objeto-Aprendizagem): Quiz interativo sobre variáveis, buscando facilitar a compreensão e aplicação de variáveis em diferentes linguagens de programação. Para cada tópico sobre variáveis, são apresentadas perguntas de múltipla escolha, exemplos explícitos e exercícios práticos para reforçar o aprendizado. Destinado a estudantes de programação iniciantes, de qualquer nível de ensino.
 
