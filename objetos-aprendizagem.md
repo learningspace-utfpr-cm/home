@@ -11,6 +11,9 @@
 ## Ciência de dados
 - [Data Learning](https://github.com/learningspace-utfpr-cm/objeto-de-aprendizagem-DataLearning): Objeto de aprendizagem que utiliza gamificação para guiar o empreendedor na transição da tomada de decisão baseada em "achismos" para decisões baseadas em dados. Destinado a  Microempreendedores Individuais (MEIs) e pequenos empresários que possuem pouco ou nenhum conhecimento prévio em estatística ou ciência de dados.
 
+## Lógica matemática e matemática discreta
+- [LogiCard](https://github.com/learningspace-utfpr-cm/LogiCard): Jogo de cartas com objetivo de introduzir conceitos sobre lógica proposicional, mais especificamente os conceitos de sentença, proposição e operadores. Este objeto de aprendizagem não requer um computador. Ao invés disso, ele emprega cartas reais! Destinado a crianças do quinto ano do Ensino Fundamental 1.
+
 ## Programação
 - [Jogo Web de Simulação de Debugging](https://github.com/learningspace-utfpr-cm/Debugging-Game): Objeto de aprendizagem em formato de jogo web para ensino de depuração de programas, abordando: identificar erros em código-fonte, compreender o processo de depuração, aplicar técnicas de depuração para correção de código, utilizar testes de software para validar soluções, reconhecer tipos de bugs em programas, relacionar execução do programa com ocorrência de erros. Destinado a estudantes de cursos da área de computação com conhecimentos básicos de programação.
 - [Variáveis](https://github.com/learningspace-utfpr-cm/Quiz-Variaveis_Objeto-Aprendizagem): Quiz interativo sobre variáveis, buscando facilitar a compreensão e aplicação de variáveis em diferentes linguagens de programação. Para cada tópico sobre variáveis, são apresentadas perguntas de múltipla escolha, exemplos explícitos e exercícios práticos para reforçar o aprendizado. Destinado a estudantes de programação iniciantes, de qualquer nível de ensino.
