@@ -1,5 +1,8 @@
 # Objetos de aprendizagem
 
+## Funções executivas
+- [Organizador de rotina](https://github.com/learningspace-utfpr-cm/routine-organizer): Software educacional sobre planejamento de atividades da rotina diária. Destinado a crianças neurodivergentes, que possuem dificuldade no aprendizado de rotinas.
+
 ## Banco de dados
 - [Detetive SQL](https://github.com/learningspace-utfpr-cm/DetetiveSQL): Jogo investigativo para ensinar consultas SQL por meio de um jogo investigativo. O estudante assume o papel de um detetive que precisa resolver um assassinato na Mansão Belmont, utilizando consultas SQL para cruzar evidências, filtrar suspeitos e chegar a uma conclusão baseada em dados concretos. Destinado a estudantes de ensino médio e início do ensino superior que estão tendo o primeiro contato com bancos de dados relacionais.
 - [neonCity: Administrando a Cidade](https://github.com/learningspace-utfpr-cm/neonCity): Jogo em que o estudante está no controle de uma metrópole futurista. Para salvar a cidade, o jogador não utiliza botões comuns, mas sim um Terminal de Comando SQL funcional que interage com um banco de dados real em memória. O objetivo é ensinar os fundamentos de Banco de Dados de forma prática, visual e imersiva. Destinado a estudantes do Ensino Médio e Superior que queiram aprender sobre gerenciamento de banco de dados.
