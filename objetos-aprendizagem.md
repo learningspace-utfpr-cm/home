@@ -28,3 +28,7 @@
 - [Operações Matemáticas Básicas em Python](https://github.com/learningspace-utfpr-cm/oa-operacoes-aritmeticas-python): Caderno computacional para ensinar, de forma prática e guiada, a implementação das operações matemáticas básicas em Python: soma, subtração, multiplicação e divisão. O material combina breves explicações teóricas, exemplos executáveis, exercícios e outros materiais para reforço de aprendizado. Destinado a estudantes do Ensino Fundamental 2.
 - [Variáveis](https://github.com/learningspace-utfpr-cm/Quiz-Variaveis_Objeto-Aprendizagem): Quiz interativo sobre variáveis, buscando facilitar a compreensão e aplicação de variáveis em diferentes linguagens de programação. Para cada tópico sobre variáveis, são apresentadas perguntas de múltipla escolha, exemplos explícitos e exercícios práticos para reforçar o aprendizado. Destinado a estudantes de programação iniciantes, de qualquer nível de ensino.
 
+### Rede de computadores
+- [Network-Mask-Simulator](https://github.com/learningspace-utfpr-cm/NetworkMask): Software educacional para ensino e prática do conceito de Máscara de Red através de um simulador interativo de Sub-redes Interativo. Destinado a estudantes dos primeiros períodos de cursos relacionados à Computação.
+
+
