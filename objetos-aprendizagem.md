@@ -3,6 +3,10 @@
 ## Funções executivas
 - [Organizador de rotina](https://github.com/learningspace-utfpr-cm/routine-organizer): Software educacional sobre planejamento de atividades da rotina diária. Destinado a crianças neurodivergentes, que possuem dificuldade no aprendizado de rotinas.
 
+## Inglês
+- [O Inglês Falado](https://github.com/learningspace-utfpr-cm/o-ingles-falado): Software educacional para aprendizagem do inglês falado no cotidiano, realizando o desenvolvimento de competências cognitivas por meio da integração entre vídeo e interação ativa. Destinado a estudantes e autodidatas interessados em aprimorar seus conhecimentos em inglês.
+
+
 ## Computação
 
 ### Banco de dados
