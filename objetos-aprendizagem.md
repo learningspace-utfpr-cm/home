@@ -6,6 +6,9 @@
 ## Inglês
 - [O Inglês Falado](https://github.com/learningspace-utfpr-cm/o-ingles-falado): Software educacional para aprendizagem do inglês falado no cotidiano, realizando o desenvolvimento de competências cognitivas por meio da integração entre vídeo e interação ativa. Destinado a estudantes e autodidatas interessados em aprimorar seus conhecimentos em inglês.
 
+## Jogos
+- [Mekanism: Dominando a Thermal Evaporation Plant](https://github.com/learningspace-utfpr-cm/oa-Mekanism): Mod de Minecraft, baseado no Mechanism Mod, com o objetivo de ensinar o jogador a construir e compreender o funcionamento de máquinas multibloco, em especial a Thermal Evaporation Plant. O conteúdo é apresentado por meio de um livro dentro do jogo, que contém textos explicativos, imagens ilustrativas e uma atividade interativa final que verifica o aprendizado do jogador.
+Destinado a jogadores de Minecraft com interesse em mods tecnológicos, especialmente aqueles que gostam de aprender sobre automação e engenharia dentro do jogo.
 
 ## Computação
 
